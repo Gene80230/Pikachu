@@ -116,29 +116,7 @@ let code = `/*
     top:65px;
     background: #FFE600;
 }
-.UpperLip.left{
-    border-bottom-left-radius:60px 30px;
-    border-top:none;
-    border-right:none;
-    transform:rotate(-25deg);
-    right:50%;
-}
-.UpperLip.right{
-    border-bottom-right-radius:60px 30px;
-    border-top:none;
-    border-left:none;
-    left:50%;
-    transform:rotate(25deg);
-}
-.LowerLip-wrapper{
-    width:420px;
-    height:165px;
-    position:absolute;
-    bottom:0;
-    left:50%;
-    margin-left:-110px;
-    overflow: hidden;
-}
+
 /*
 *这是下嘴唇
 */
